@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "feather-icons": "^4.29.2",
-    "frappe-ui": "^0.1.72",
+    "frappe-ui": "^0.1.98",
     "vue": "^3.5.12",
     "vue-router": "^4.4.5"
   },
